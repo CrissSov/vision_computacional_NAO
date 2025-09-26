@@ -1,0 +1,14 @@
+Comportamientos instalados en NAO:
+
+despedida-afd07c/behavior_1
+goldendance/behavior_1
+saludar-909889/behavior_1
+saludar-909889/BienvenidaTerapia
+.lastUploadedChoregrapheBehavior/behavior_1
+.lastUploadedChoregrapheBehavior/brazos2
+.lastUploadedChoregrapheBehavior/brazos3
+.lastUploadedChoregrapheBehavior/brazos4
+ejercicios-552ddf/behavior_1
+ejercicios-552ddf/brazos2
+ejercicios-552ddf/brazos3
+ejercicios-552ddf/brazos4

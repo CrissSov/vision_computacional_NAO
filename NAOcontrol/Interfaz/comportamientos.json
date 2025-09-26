@@ -1,0 +1,27 @@
+[
+  {
+    "id": "goldendance/behavior_1",
+    "nombre": "Fortalecer bíceps",
+    "descripcion": "Una coreografía animada con música alegre."
+  },
+  {
+    "id": "ejercicios-552ddf/behavior_1",
+    "nombre": "Brazos alternados",
+    "descripcion": "Secuencia de movimientos ."
+  },
+  {
+    "id": "ejercicios-552ddf/brazos2",
+    "nombre": "Ejercicio de Brazos 2",
+    "descripcion": "Rutina intermedia de movimiento de brazos."
+  },
+  {
+    "id": "ejercicios-552ddf/brazos3",
+    "nombre": "Ejercicio de Brazos 3",
+    "descripcion": "Rutina avanzada de movimiento de brazos."
+  },
+  {
+    "id": "ejercicios-552ddf/brazos4",
+    "nombre": "Ejercicio de Brazos 4",
+    "descripcion": "Serie de repeticiones enfocadas en la coordinación de brazos."
+  }
+]
