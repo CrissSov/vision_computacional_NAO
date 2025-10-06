@@ -90,7 +90,7 @@ mp_drawing = mp.solutions.drawing_utils
 mp_holistic = mp.solutions.holistic
 mp_face_mesh = mp.solutions.face_mesh
 
-cap = cv2.VideoCapture(1) #usar 0 para la camara web
+cap = cv2.VideoCapture(0) #usar 0 para la camara web
 smoother = AngleSmoother(alpha=0.2)
 start_time = time.time()
 
@@ -157,7 +157,7 @@ with mp_holistic.Holistic(static_image_mode=False, model_complexity=1) as holist
                     payload = json.dumps(angles)
                     #print("Enviando al NAO:", payload)
                     sock.sendall(payload.encode("utf-8"))
-                    print("-->>> Ángulos enviados.")
+                    #print("-->>> Ángulos enviados.")
                 except Exception as e:
                     print("Error al enviar ángulos:", e)
             else:

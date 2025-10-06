@@ -45,10 +45,10 @@ class Elbows:
             l_flex_deg = self.calculate_angle_yz_plane(ls, le, lw)
             r_flex_deg = self.calculate_angle_yz_plane(rs, re, rw)
 
-            # 🖨️ Imprimir para depurar
-            print("ÁNGULOS DE FLEXIÓN (reales en grados):")
-            print(f"  Izquierdo (YZ): {l_flex_deg:.2f}°")
-            print(f"  Derecho  (YZ): {r_flex_deg:.2f}°")
+            # Imprimir para depurar
+            #print("ÁNGULOS DE FLEXIÓN (reales en grados):")
+            #print(f"  Izquierdo (YZ): {l_flex_deg:.2f}°")
+            #print(f"  Derecho  (YZ): {r_flex_deg:.2f}°")
 
             # Mapea directamente al rango NAO (en grados)
             return {
